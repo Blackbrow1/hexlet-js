@@ -1,7 +1,6 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
-  "type": "module",
   "description": "Тестовый проект",
   "main": "index.js",
   "scripts": {
